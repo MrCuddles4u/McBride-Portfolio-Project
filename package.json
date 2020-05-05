@@ -1,0 +1,29 @@
+{
+  "name": "mcbride-portfolio-project",
+  "version": "1.0.0",
+  "description": "This is my Portfolio/Portfolio Project for NuCamp",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCuddles4u/McBride-Portfolio-Project.git"
+  },
+  "author": "Ryan McBride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrCuddles4u/McBride-Portfolio-Project/issues"
+  },
+  "homepage": "https://github.com/MrCuddles4u/McBride-Portfolio-Project#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
